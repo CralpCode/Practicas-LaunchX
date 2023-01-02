@@ -22,6 +22,6 @@
 - ### Tarea 4
    [Link-Tarea-4](https://github.com/CralpCode/Tarea-4-Chat-testing "Tarea-4")
 - ### Tarea 5
-   [Link-Tarea-5]( "Tarea-5")
+   [Link-Tarea-5](https://github.com/CralpCode/Tarea-5-API-REST "Tarea-5")
 - ### Tarea 6
-   [Link-Tarea-6]( "Tarea-6")
+   [Link-Tarea-6](https://github.com/CralpCode/Tarea-6-Chat-MongoDB "Tarea-6")
