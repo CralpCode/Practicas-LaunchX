@@ -18,7 +18,7 @@
 - ### Tarea 2
    [Link-Tarea-2](https://github.com/CralpCode/Tarea-2-Pokedex-REACT "Tarea-2")
 - ### Tarea 3
-   [Link-Tarea-3]("Tarea-3")
+   [Link-Tarea-3](https://github.com/CralpCode/Tarea-3-Chat "Tarea-3")
 - ### Tarea 4
    [Link-Tarea-4]( "Tarea-4")
 - ### Tarea 5
